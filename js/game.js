@@ -6,7 +6,7 @@ var game = {
         earthMoonZoom: 20,
         minimumRadius: .5,
         fps: 60,
-        realSecondsPerGameSecond: 1 * 60 * 60 * 24, //1 day
+        realSecondsPerGameSecond: 1 * 60 * 60 * 24 * 7, //1 week
         // 1min = 1 * 60
         // 1h = 1 * 60 * 60
         // 1day = 1 * 60 * 60 * 24
