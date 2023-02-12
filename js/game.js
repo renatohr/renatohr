@@ -3,7 +3,7 @@ var game = {
     scales : {
         kmToPixel: 250000,
         planetZoom: 1,
-        earthMoonZoom: 1,
+        earthMoonZoom: 20,
         minimumRadius: .5,
         fps: 60,
         realSecondsPerGameSecond: 1 * 60 * 60 * 24, //1 day
